@@ -15,3 +15,7 @@ Include opensans.css in your index.html or .angular-cli.json
 ```
 
 If you want to use font family constants in your scss stylesheet
+
+```
+@import "~wfk-opensans/opensans"
+```
